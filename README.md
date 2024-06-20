@@ -1,51 +1,117 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Dicas de Economia para Crianças e Jovens
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Um eBook educativo com dicas para crianças e jovens aprenderem sobre economia e como economizar dinheiro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+-   ChatGPT (IA Generativa) para criação do conteúdo
+-   Designer da Microsoft para a criação da capa do eBook
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Criação do Conteúdo**: Uso do ChatGPT para desenvolver textos educativos e acessíveis.
+2.  **Design da Capa**: Utilização do Designer da Microsoft para criar uma capa atraente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![Capa do eBook](capa.jpeg)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+### Capítulo 1: O Que É Economia?
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Economia é sobre como usamos nosso dinheiro e recursos. É importante entender para tomar boas decisões financeiras no futuro.
 
-## Links Interessantes
+#### Conceitos Básicos
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+-   **Dinheiro**: É o que usamos para comprar coisas.
+-   **Orçamento**: Um plano de quanto dinheiro temos e como vamos gastá-lo.
+-   **Economizar**: Guardar dinheiro para o futuro.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+----------
+
+### Capítulo 2: A Importância de Economizar
+
+Economizar dinheiro é importante para estar preparado para o futuro e para emergências.
+
+#### Por Que Economizar?
+
+-   **Emergências**: Ter dinheiro guardado para situações inesperadas.
+-   **Objetivos**: Economizar para comprar algo especial no futuro.
+-   **Independência**: Aprender a gerenciar seu próprio dinheiro.
+
+----------
+
+### Capítulo 3: Como Economizar Dinheiro
+
+Aqui estão algumas dicas práticas para começar a economizar dinheiro.
+
+#### Dicas de Economia
+
+-   **Mesada**: Separe uma parte da sua mesada para economizar.
+-   **Cofrinho**: Use um cofrinho para guardar moedas e notas.
+-   **Lista de Compras**: Faça uma lista antes de comprar para evitar gastos desnecessários.
+
+----------
+
+### Capítulo 4: Entendendo Orçamento
+
+Fazer um orçamento é planejar como você vai usar seu dinheiro.
+
+#### Criando um Orçamento
+
+-   **Entradas**: Anote quanto dinheiro você ganha.
+-   **Saídas**: Anote quanto dinheiro você gasta.
+-   **Saldo**: Verifique se você está gastando menos do que ganha.
+
+----------
+
+### Capítulo 5: Objetivos Financeiros
+
+Ter objetivos ajuda a manter a motivação para economizar.
+
+#### Como Definir Objetivos
+
+-   **Curto Prazo**: Algo que você quer comprar logo, como um brinquedo.
+-   **Médio Prazo**: Algo para alguns meses, como uma bicicleta.
+-   **Longo Prazo**: Algo para o futuro distante, como um videogame.
+
+----------
+
+### Capítulo 6: Aprendendo com Jogos e Brincadeiras
+
+Aprender sobre economia pode ser divertido com jogos e brincadeiras.
+
+#### Jogos Educativos
+
+-   **Monopoly**: Jogo de tabuleiro sobre compra e venda de propriedades.
+-   **Aplicativos**: Use apps que ensinam sobre economia de forma divertida.
+
+----------
+
+### Capítulo 7: A Importância de Fazer Boas Escolhas
+
+Tomar boas decisões financeiras é essencial para uma vida saudável e sem dívidas.
+
+#### Como Fazer Boas Escolhas
+
+-   **Pesquise Preços**: Compare antes de comprar.
+-   **Pense Antes de Comprar**: Pergunte se você realmente precisa daquilo.
+-   **Evite Compras por Impulso**: Não compre só porque viu algo legal.
+
+----------
+
+### Capítulo 8: O Futuro e Você
+
+Pensar no futuro é importante, mesmo sendo jovem.
+
+#### Planeje Seu Futuro
+
+-   **Estudos**: Estudar e aprender sobre economia.
+-   **Carreira**: Pense em como ganhar dinheiro no futuro.
+-   **Investimentos**: Aprender sobre investir pode ajudar seu dinheiro crescer.
+
+----------
+
+## Conclusão
+
+Economizar dinheiro e aprender sobre economia são habilidades importantes para toda a vida. Com essas dicas, você estará no caminho certo para ser um bom gestor do seu dinheiro!
